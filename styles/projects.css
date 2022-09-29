@@ -77,5 +77,5 @@ p.fixed {
     right: 0;
     border: 3px solid darkgreen;
     background-color: lightgreen;
-    padding: 0.5em;
+    padding: 0.1em 1em 1em;
 }
