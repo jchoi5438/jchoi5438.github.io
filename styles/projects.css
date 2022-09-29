@@ -79,3 +79,7 @@ p.fixed {
     background-color: lightgreen;
     padding: 0.1em 1em 1em;
 }
+footer p.copyright {
+    text-align: center;
+    font-size: 80%;
+}
