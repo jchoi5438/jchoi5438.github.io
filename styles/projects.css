@@ -36,6 +36,8 @@ header h2 {
 }
 header img {
     float: left;
+    position: relative;
+    top: -10px;
     margin-left: 2em;
 }
 .shadow {
