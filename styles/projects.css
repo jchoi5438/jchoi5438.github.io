@@ -50,7 +50,6 @@ article {
     column-gap: 2em;
     margin-left: 2em;
     clear: left;
-    border-top: 2px solid maroon;
 }
 article h3 {
     column-span: all;
