@@ -23,14 +23,14 @@ header h1 {
     font-size: 175%;
     color: maroon;
     text-indent: 30px;
-    border-bottom: 2px, solid maroon;
+    border-bottom: 2px solid maroon;
 }
 header h2 {
     font-size: 130%;
     color: #800000; 
     /*color: var(--global-color-1);*/
     text-indent: 30px;
-    border-bottom: 2px, solid maroon;
+    border-bottom: 2px solid maroon;
 }
 header img {
     float: left;
@@ -48,7 +48,7 @@ article {
     column-gap: 2em;
     margin-left: 2em;
     clear: left;
-    border-top: 2px, solid maroon;
+    border-top: 2px solid maroon;
 }
 article h3 {
     column-span: all;
