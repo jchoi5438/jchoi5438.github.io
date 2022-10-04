@@ -33,7 +33,6 @@ header h2 {
 header img {
     float: left;
     margin-left: 2em;
-    border-bottom: 2px solid maroon;
 }
 .shadow {
     /*text-shadow: 2px 2px 2px var(--global-color-1);*/
@@ -51,6 +50,7 @@ article {
 }
 article h3 {
     column-span: all;
+    border-top: 2px solid maroon;
 }
 article img {
     float: left;
