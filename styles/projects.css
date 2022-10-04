@@ -21,7 +21,6 @@ a:focus, a:hover {
 /* the styles for the header */
 header {
     width: 100%;
-    margin-bottom: 1em;
     border-bottom: 2px solid maroon;
 }
 header h1 {
