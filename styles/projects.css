@@ -50,8 +50,6 @@ article {
 }
 article h3 {
     column-span: all;
-    width: 100%;
-    border-top: 2px solid maroon;
 }
 article img {
     float: left;
