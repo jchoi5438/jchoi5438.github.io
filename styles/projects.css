@@ -19,6 +19,10 @@ a:focus, a:hover {
     border-style: dotted solid; 
 }
 /* the styles for the header */
+header {
+    width: 100%;
+    border-bottom: 2px solid maroon;
+}
 header h1 {
     font-size: 175%;
     color: maroon;
