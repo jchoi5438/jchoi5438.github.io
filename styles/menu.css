@@ -1,3 +1,7 @@
+html{
+    background-image: white;
+}
+
 #nav_menu ul {
     list-style-type: none;
     padding: 1em 0;    /* padding above and below li
