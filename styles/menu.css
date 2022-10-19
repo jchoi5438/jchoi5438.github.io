@@ -5,10 +5,10 @@ html{
 
 #nav_menu ul {
     list-style-type: none;
-    padding: 1em 0;    /* padding above and below li
+    padding: 1em 0 0 1em;    /* padding above and below li
                           elements */
     text-align: center;
-    margin-left: 10px; 
+     
 }
 
 #nav_menu ul li {
