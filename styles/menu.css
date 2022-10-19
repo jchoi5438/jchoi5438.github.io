@@ -62,7 +62,7 @@ body {
 }
 
 #nav_menu ul { list-style-type: none; }
-#nav_menu ul { text-indent: 45px; }
+#nav_menu ul { margin-left: 45px }
 #nav_menu ul li { float: left; }
 #nav_menu ul li a.lastitem { border-right: none; }	
 #nav_menu ul li a.current { color: yellow; }
