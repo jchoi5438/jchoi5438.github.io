@@ -1,13 +1,14 @@
 html{
     background-image: white;
     font-family: 'Times New Roman', Times, serif
+    
 }
 
 #nav_menu ul {
     list-style-type: none;
     padding: 1em 0;    /* padding above and below li
                           elements */
-    text-align: center;    
+    text-align: center;   
 }
 
 #nav_menu ul li {
