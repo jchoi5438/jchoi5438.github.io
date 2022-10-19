@@ -1,7 +1,6 @@
 html{
     background-image: white;
     font-family: 'Times New Roman', Times, serif
-    
 }
 
 #nav_menu ul {
@@ -12,12 +11,17 @@ html{
 
 #nav_menu ul li {
     display: inline;
-    padding: 0 0em; }
+    padding: 0 0em; 
+}
+
 #nav_menu ul li a {
     font-weight: bold;
     color: blue; 
-    margin-left: 10px; }
-#nav_menu ul li a.current { text-decoration: none; }
+    margin-left: 10px; 
+}
+
+#nav_menu ul li a.current { text-decoration: none; 
+}
 
 h1 {
     font-size: 20px;
