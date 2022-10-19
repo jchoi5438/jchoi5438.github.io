@@ -1,6 +1,7 @@
 html{
     background-image: white;
     font-family: 'Times New Roman', Times, serif
+    
 }
 
 #nav_menu ul {
@@ -20,8 +21,43 @@ html{
 h1 {
     font-size: 20px;
     font-weight: bold;
+    box-align: left;
+    color: black;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
     align: left;
     color: black;
+}
+
+h3 {
+    font-size: 50%;
+    align: left;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: bold;
+    align: left;
+    color: black;
+}
+
+h5 {
+    font-size: 50%;
+    align: left;
+}
+
+h6 {
+    font-size: 20px;
+    font-weight: bold;
+    align: left;
+    color: black;
+}
+h7 {
+    font-size: 50%;
+    align: left;
 }
 
 body {
