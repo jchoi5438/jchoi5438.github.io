@@ -28,36 +28,31 @@ h1 {
 h2 {
     font-size: 20px;
     font-weight: bold;
-    align: left;
     color: black;
 }
 
 h3 {
-    font-size: 50%;
-    align: left;
+    font-size: 16px;
 }
 
 h4 {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
-    align: left;
     color: black;
 }
 
 h5 {
-    font-size: 50%;
-    align: left;
+    font-size: 16px;
 }
 
 h6 {
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
-    align: left;
     color: black;
 }
 h7 {
-    font-size: 50%;
-    align: left;
+    font-size: 16px;
+
 }
 
 body {
