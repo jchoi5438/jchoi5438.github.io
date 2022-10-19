@@ -4,6 +4,19 @@ html{
     
 }
 
+a:link {
+    color: whitesmoke;
+}
+a:visited {
+    color: yellowgreen;
+}
+a:hover {
+    color: plum;
+}
+a:active {
+    color: paleturquoise;
+}
+
 #nav_menu ul {
     list-style-type: none;
     padding: 1em 0;    /* padding above and below li
