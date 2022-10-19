@@ -7,12 +7,13 @@ html{
     list-style-type: none;
     padding: 1em 0;    /* padding above and below li
                           elements */
-    text-align: center; }
+    text-align: center;
+    margin-left: 10px; 
+}
 
 #nav_menu ul li {
     display: inline;
     padding: 0 0em; 
-    margin-left: 10px; 
 }
 
 #nav_menu ul li a {
