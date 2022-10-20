@@ -72,7 +72,8 @@ p {
 aside {
     width: 20%;
     float: right;
-    background-color: #ffebc6;
+    border: 1px solid blue;
+    background-color: lightblue;
     padding: 0.1em 1em 1em;
 }
 
