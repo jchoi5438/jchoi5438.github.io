@@ -3,18 +3,18 @@ html{
     font-family: 'Times New Roman', Times, serif    
 }
 
-a:link {
+  a:link {
     color: palevioletred;
-}
-a:visited {
-    color: yellowgreen;
-}
-a:hover {
+  }
+  a:visited {
+    color: purple;
+  }
+  a:hover {
     color: plum;
-}
-a:active {
-    color: paleturquoise;
-}
+  }
+  a:active {
+    color: green;
+  }
 
 #nav_menu ul {
     list-style-type: none;
