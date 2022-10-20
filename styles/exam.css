@@ -25,10 +25,10 @@ article img {
 }
 
 article {
-    width: 70%;
+    width: 75%;
     float: left;
     column-count: 3;
-    column-rule: 2px dotted blue;
+    column-rule: 4px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
     clear: left;
