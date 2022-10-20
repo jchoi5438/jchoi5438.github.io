@@ -64,6 +64,7 @@ h1 {
     font-weight: bold;
     box-align: left;
     color: blue;
+    width: auto;
 }
 
 h2 {
