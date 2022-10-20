@@ -79,7 +79,7 @@ aside {
     float: right;
     border: 1px solid blue;
     background-color: lightblue;
-    padding: 0.1em 1em 1em;
+    padding: 1em 1em 1em;
 }
 
 #nav_menu ul { list-style-type: none; }
