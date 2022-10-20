@@ -65,6 +65,7 @@ h1 {
     box-align: left;
     color: blue;
     width: auto;
+    column-span: all;
 }
 
 h2 {
