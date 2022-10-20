@@ -91,11 +91,26 @@ aside {
     float: right;
 }
 
-#nav_menu ul { list-style-type: none; }
-#nav_menu ul { margin-left: 40px }
-#nav_menu ul li { float: left; }
-#nav_menu ul li a.lastitem { border-right: none; }	
-#nav_menu ul li a.current { color: yellow; }
+#nav_menu ul { 
+    list-style-type: none; 
+}
+
+#nav_menu ul { 
+    margin-left: 40px 
+}
+
+#nav_menu ul li { 
+    float: left; 
+}
+
+#nav_menu ul li a.lastitem { 
+    border-right: none; 
+}	
+
+#nav_menu ul li a.current { 
+    color: yellow; 
+}
+
 #nav_menu ul li a {
     text-align: center;
     display: block;
