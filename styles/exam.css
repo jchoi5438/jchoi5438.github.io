@@ -3,6 +3,7 @@ html{
 }
 
 head {
+    margin-bottom: 15px auto; 
     border-bottom: 2px solid blue;
 }
 
