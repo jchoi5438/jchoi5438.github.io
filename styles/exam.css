@@ -94,3 +94,8 @@ aside {
     font-weight: bold;
     border-right: 2px solid white;
 }
+
+footer {
+    clear: both;
+    border-top: 2px solid blue;
+}
