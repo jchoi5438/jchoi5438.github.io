@@ -1,11 +1,5 @@
 html{
     background-image: linear-gradient(to left, white 0%, skyblue 100%);
-    background-color: white;
-    margin: 15px auto;
-    padding: 15px 1.5em;
-    border: 1px solid black;
-    border-radius: 25px;
-    box-shadow: 5px, 5px, 0, 0;
 }
 
 head {
