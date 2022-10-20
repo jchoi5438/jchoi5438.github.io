@@ -14,6 +14,16 @@ body {
     box-shadow: 5px, 5px, 0, 0;
 }
 
+article {
+    width: 70%;
+    float: left;
+    column-count: 2;
+    column-rule: 2px dotted blue;
+    column-gap: 2em;
+    margin-left: 2em;
+    clear: left;
+}
+
 #nav_menu ul {
     list-style-type: none;
     padding: 1em 0;    /* padding above and below li
@@ -75,14 +85,4 @@ p {
     color: whitesmoke;
     font-weight: bold;
     border-right: 2px solid white;
-}
-
-article {
-    width: 70%;
-    float: left;
-    column-count: 2;
-    column-rule: 2px dotted blue;
-    column-gap: 2em;
-    margin-left: 2em;
-    clear: left;
 }
