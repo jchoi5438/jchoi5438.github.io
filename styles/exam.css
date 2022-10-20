@@ -70,6 +70,13 @@ p {
     color: black;
 }
 
+aside {
+    width: 20%;
+    float: right;
+    background-color: #ffebc6;
+    padding: 0.1em 1em 1em;
+}
+
 #nav_menu ul { list-style-type: none; }
 #nav_menu ul { margin-left: 40px }
 #nav_menu ul li { float: left; }
