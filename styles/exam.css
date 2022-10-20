@@ -38,7 +38,7 @@ article {
 
 #nav_menu ul {
     list-style-type: none;
-    padding: 1em 0;    /* padding above and below li
+    padding: 1em 1em;    /* padding above and below li
                           elements */
     text-align: center;   
 }
