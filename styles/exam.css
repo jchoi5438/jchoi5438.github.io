@@ -3,6 +3,7 @@ html{
 }
 
 head {
+    padding-bottom: 50px;
     border-bottom: 2px solid blue;
 }
 
