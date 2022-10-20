@@ -98,6 +98,7 @@ aside {
     color: whitesmoke;
     font-weight: bold;
     border-right: 2px solid white;
+    border-bottom: 2px solid blue;
 }
 
 footer {
