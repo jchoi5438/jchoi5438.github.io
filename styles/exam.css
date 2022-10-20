@@ -88,7 +88,8 @@ aside {
     background-color: lightblue;
     padding: 1em 1em 1em;
     position: fixed;
-    float: right;
+    bottom: 60%;
+    right: 0;
 }
 
 #nav_menu ul { 
