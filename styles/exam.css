@@ -28,12 +28,14 @@ article img {
 }
 
 article {
+    border-top: 2px solid blue;
     width: 75%;
     float: left;
     column-count: 3;
     column-rule: 4px dotted blue;
     column-gap: 2em;
     margin-left: 2em;
+    margin-top: 1em;
     clear: left;
 }
 
