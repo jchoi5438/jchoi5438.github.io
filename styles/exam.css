@@ -4,7 +4,6 @@ html{
 
 head {
     padding-bottom: 1em;
-    border-bottom: 2px solid blue;
 }
 
 body {
@@ -66,6 +65,7 @@ h1 {
     color: blue;
     width: auto;
     column-span: all;
+    border-top: 2px solid blue;
 }
 
 h2 {
