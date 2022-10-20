@@ -47,16 +47,16 @@ h2 {
     color: blue;
 }
 
-p {
-    font-size: 14px;
-    color: blue;
+article p::first-letter {
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    color: lightgreen;
 }
 
-body {
-    font-size: 100%;
-    width: 1000px;
-    background-color: white;
-    margin: 15px auto;
+p {
+    font-size: 14px;
+    color: black;
 }
 
 #nav_menu ul { list-style-type: none; }
