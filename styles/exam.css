@@ -4,6 +4,9 @@ html{
 
 head {
     padding-bottom: 1em;
+    width: 100%;
+    min-width: 1000px;
+    border-bottom: 2px solid blue;
 }
 
 body {
