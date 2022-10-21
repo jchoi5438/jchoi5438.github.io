@@ -58,7 +58,8 @@ article {
     color: blue; 
 }
 
-#nav_menu ul li a.current { text-decoration: none; 
+#nav_menu ul li a.current { 
+    text-decoration: none; 
 }
 
 h1 {
