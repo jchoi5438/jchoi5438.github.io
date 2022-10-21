@@ -5,6 +5,9 @@ html{
 head {
     width: 100%;
     min-width: 1000px;
+}
+
+hr.solid {
     border-bottom: 2px solid blue;
 }
 
