@@ -42,8 +42,7 @@ article {
 
 #nav_menu ul {
     list-style-type: none;
-    padding: 1em 1em;    /* padding above and below li
-                          elements */
+    padding: 1em 1em;   
     text-align: center;   
 }
 
@@ -120,8 +119,7 @@ aside {
     text-align: center;
     display: block;
     width: 175px;
-    padding: 1em 1em;      /* padding above and below a
-                            elements */
+    padding: 1em 1em;      
     text-decoration: none;
     background-color: blue;
     color: whitesmoke;
