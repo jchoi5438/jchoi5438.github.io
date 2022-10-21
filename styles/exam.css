@@ -65,7 +65,8 @@ h1 {
     font-weight: bold;
     box-align: left;
     color: blue;
-    width: auto;
+    width: 100%;
+    border-top: 2px solid blue;
     column-span: all;
 }
 
