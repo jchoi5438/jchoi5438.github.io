@@ -101,7 +101,8 @@ aside {
 }
 
 #nav_menu ul { 
-    margin-left: 40px 
+    margin-left: 40px; 
+    border-bottom: 2px solid blue;
 }
 
 #nav_menu ul li { 
