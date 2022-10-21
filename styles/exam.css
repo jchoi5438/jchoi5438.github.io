@@ -3,8 +3,7 @@ html{
 }
 
 head {
-    padding-bottom: 1em;
-    width: 100%;
+    width: 103%;
     min-width: 1000px;
     border-bottom: 2px solid blue;
 }
@@ -102,7 +101,6 @@ aside {
 
 #nav_menu ul { 
     margin-left: 40px; 
-    border-bottom: 2px solid blue;
 }
 
 #nav_menu ul li { 
