@@ -29,7 +29,6 @@ article img {
 }
 
 article {
-    border-top: 2px solid blue;
     width: 75%;
     float: left;
     column-count: 3;
