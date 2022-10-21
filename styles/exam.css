@@ -5,6 +5,7 @@ html{
 head {
     width: 103%;
     min-width: 1000px;
+    clear: both;
     border-bottom: 2px solid blue;
 }
 
