@@ -86,16 +86,12 @@ margin-top: 0px;
 transform: rotate(-405deg);
 }
 
-#top-nav ul li a {
+section ul li a {
     text-decoration: none;
     color: white;
 }
 
-#top-nav ul li a.current { 
-    text-decoration: underline;
-}
-
-#top-nav ul li a:hover{
+section a.current, a:hover { 
     text-decoration: underline;
 }
 
