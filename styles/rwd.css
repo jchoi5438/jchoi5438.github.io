@@ -4,10 +4,6 @@ height: 100%;
 font-size: 100%;
 }
 
-a:hover, a.current {
-    text-decoration: underline;
-}
-
 * {
 font-family: Verdana, Arial, Helvetica, sans-serif;
 box-sizing: border-box;
@@ -93,6 +89,10 @@ transform: rotate(-405deg);
 section .top-nav {
     text-decoration: none;
     color: white;
+}
+
+a:hover, a.current {
+    text-decoration: underline;
 }
 
 article {
