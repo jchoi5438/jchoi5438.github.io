@@ -4,6 +4,10 @@ height: 100%;
 font-size: 100%;
 }
 
+a:hover, a.current {
+    text-decoration: underline;
+}
+
 * {
 font-family: Verdana, Arial, Helvetica, sans-serif;
 box-sizing: border-box;
