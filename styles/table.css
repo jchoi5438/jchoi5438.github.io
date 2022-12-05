@@ -43,13 +43,13 @@ table.third {
     table.third caption {
     background-color: lightgreen;
     border-top: 2px solid red;
-    border-top: 2px solid red;
+    border-bottom: 2px solid red;
     } 
     table.third th {
     background-color: lightgreen;
     vertical-align: middle;
     }
     table.third th, table.third td {
-        padding: 1em;
-        vertical-align: middle;
+    padding: 1em;
+    vertical-align: middle;
     }
