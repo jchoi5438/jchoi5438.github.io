@@ -1,3 +1,13 @@
+@media only screen and (max-width: 425px) {
+    th, td {
+        display: block;
+    }
+    thead, td.number {
+        display: none;
+        padding: 0;
+    }    
+}
+
 html, body {
     margin: 1em;
     height: 100%;
@@ -57,13 +67,4 @@ table.third {
     vertical-align: middle;
     }
 
-@media only screen and (max-width: 425px) {
-        th, td {
-            display: block;
-        }
-        thead, td.number {
-            display: none;
-            padding: 0;
-        }    
-    }
     
