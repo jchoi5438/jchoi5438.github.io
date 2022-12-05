@@ -44,14 +44,15 @@ table.third {
     background-color: lightgreen;
     vertical-align: middle;
     border-top: 2px solid orangered;
-    padding: 1em;
+    padding: 0.7em;
     font-weight: bold;
     } 
     table.third th {
     background-color: lightgreen;
     vertical-align: middle;
+    border-bottom: 2px solid orangered;
     }
     table.third th, table.third td {
-    padding: 1em;
+    padding: 0.7em;
     vertical-align: middle;
     }
