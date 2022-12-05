@@ -37,13 +37,13 @@ table.second {
 
 table.third {
     border-collapse: collapse;
-    border-top: 2px solid red; 
-    border-bottom: 2px solid red; 
+    border-top: 2px solid orangered; 
+    border-bottom: 2px solid orangered; 
     }
     table.third caption {
     background-color: lightgreen;
     vertical-align: middle;
-    border-bottom: 2px solid red;
+    border-top: 2px solid orangered;
     } 
     table.third th {
     background-color: lightgreen;
