@@ -42,6 +42,7 @@ table.third {
     }
     table.third caption {
     background-color: lightgreen;
+    vertical-align: middle;
     border-top: 2px solid red;
     border-bottom: 2px solid red;
     } 
