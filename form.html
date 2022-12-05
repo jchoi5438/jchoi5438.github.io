@@ -48,6 +48,7 @@
                 title="Must be 999-999-999 format"
                 autocomplete="on"><br>
         </fieldset>
+
         <fieldset>
             <legend>Membership Information</legend>
             <label for="membership_type">Membership Type:</label>
@@ -57,7 +58,21 @@
                     <option value="Regular">
                     <option value="Charter">
                 </datalist>
+            <label for="starting_date">Starting Date</label>
         </fieldset>
+
+        <fieldset>
+            <legend>How Did You Hear About Us?</legend>
+            <label for="search_engine">Search Engine</label>
+            <input type="radio" name="search_engine" id="search_engine">
+            <label for="social_media">Social Media</label>
+            <input type="radio" name="social_media" id="social_media">
+            <label for="email">E-Mail</label>
+            <input type="radio" name="email" id="email">
+            <label for="Friend or Colleague">Friend or Colleague</label>
+            <input type="radio" name="friend_or_colleague" id="friend_or_colleague">
+        </fieldset>
+        
     </form>
 </body>
 </html>
