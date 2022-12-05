@@ -56,3 +56,14 @@ table.third {
     padding: 0.7em;
     vertical-align: middle;
     }
+
+@media only screen and (max-width: 425px) {
+        th, td {
+            display: block;
+        }
+        thead, td.number {
+            display: none;
+            padding: 0;
+        }    
+    }
+    
