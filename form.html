@@ -48,7 +48,16 @@
                 title="Must be 999-999-999 format"
                 autocomplete="on"><br>
         </fieldset>
-        
+        <fieldset>
+            <legend>Membership Information</legend>
+            <label for="membership_type">Membership Type:</label>
+            <input type="text" name="membership_type" list="membership_type">
+                <datalist id="membership_type">
+                    <option value="Junior">
+                    <option value="Regular">
+                    <option value="Charter">
+                </datalist>
+        </fieldset>
     </form>
 </body>
 </html>
