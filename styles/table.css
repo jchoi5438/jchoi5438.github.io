@@ -37,8 +37,8 @@ table.second {
 
 table.third {
     border-collapse: collapse;
-    border-top: 1px solid orangered; 
-    border-bottom: 2px solid orangered; 
+    border-top: 2px solid orangered; 
+    border-bottom: 1px solid orangered; 
     }
     table.third caption {
     background-color: lightgreen;
